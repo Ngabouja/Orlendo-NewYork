@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.Contenaire {
+	position: absolute;
+	width: 678px;
+	height: 554px;
+	left: 385px;
+	top: 195px;
+	background: #ffffff;
+	border-radius: 12px;
+}
+.Menu-1 {
+	position: relative;
+}
+h1 {
+	position: relative;
+	width: 193px;
+	height: 40px;
+	top: -80px;
+	right: -30px;
+	font-size: 32px;
+	font-weight: 900;
+	text-align: center;
+	background-color: #3a3a3ab2;
+}
+.Photo-ville {
+	position: relative;
+	background: center;
+	width: 678px;
+	height: 258px;
+	border-radius: 12px;
+}
+.pp {
+	background: center / cover url(Tête.png);
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+	position: absolute;
+	top: 169px;
+	right: 249px;
+    border: 5px solid #E3E3E3;  
+}
+.Tout-la-pp {
+}
+.pp-vert {
+	border: solid;
+	background-color: green;
+	height: 42px;
+	width: 42px;
+	border-radius: 350px;
+	bottom: 30px;
+	position: absolute;
+	top: 256px;
+	right: 242px;
+    border: 5px solid #E3E3E3;
+}
